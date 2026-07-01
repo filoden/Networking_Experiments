@@ -63,4 +63,4 @@ Run it with:
 
 ## Notes
 
-These are educational examples rather than production-ready networking libraries. They are intended for experimentation, learning, and demonstration purposes.
+These are educational examples. Treat them as such.
